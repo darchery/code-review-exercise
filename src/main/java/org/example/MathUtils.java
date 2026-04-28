@@ -12,4 +12,4 @@ public class MathUtils {
     public static boolean isPositive(int number) {
         return number > 0;
     }
-}`
+}

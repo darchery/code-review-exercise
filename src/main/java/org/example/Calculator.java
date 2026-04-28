@@ -1,4 +1,4 @@
-package main.java.org.example;
+package org.example;
 /**
 * Basic calculator with arithmetic operations.
 */
